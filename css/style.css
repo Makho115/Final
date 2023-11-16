@@ -4,11 +4,17 @@
     max-height: 200px;
     height: 100%;
     margin: 0 auto;
-    background-color: #1a1b1d;
+    background-color: wheat;
     display: flex;
     align-items: center;
     /* flex-direction: column; */
     justify-content: space-between;
+}
+.logo-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 140px;
 }
 .li-items{
     display: flex;
